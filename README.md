@@ -18,7 +18,7 @@ Además, configuraremos plugins que mejoran la navegación, la productividad y u
 - Terminal compatible
 - Conexión a internet
 - ☕ Café (no es obligatorio, pero sí muy recomendable)
-- Verificar tener **curl** y **nano** instalados
+- Verificar tener **curl** y **nano** instalados:
 ```bash
 nano --version
 curl --version
@@ -30,7 +30,7 @@ curl --version
 ```bash
 sudo apt install curl
 sudo apt install nano
-# Extra divertido:
+# Extra pruebalo vale la pena
 curl parrot.live
 ```
 
@@ -301,5 +301,3 @@ Explora, rompe, reconstruye. Y nunca olvides: el buen café y el buen código si
 
 “Si no puedes hacer grandes cosas, haz pequeñas cosas de manera espectacular.”
 — J.A.R.V.I.S, asistente personal de Faragon ☕.
-
-//Pedirle a jarvis que revise y me notifique donde tenga redundancias
