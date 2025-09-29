@@ -5,7 +5,7 @@ Esta es una pequeña guía para personalizar **visual** y **funcionalmente** la 
 - **Neofetch** → Mostrar información del sistema con estilo.
 - **Oh My Zsh** → Framework para administrar configuraciones, temas y plugins de **Zsh**.
 
-> Aunque la guía está pensada principalmente para **Bash/Zsh en Linux**, con algunos cambios puede aplicarse también en **CMD/PowerShell de Windows** (próximamente se actualizará para ese útil pero deplorable sistema).
+> Aunque la guía está pensada principalmente para **Bash/Zsh en Linux**, con algunos cambios puede aplicarse también en **CMD/PowerShell de Windows** (próximamente se actualizará para ese cuestionable sistema).
 
 El objetivo es lograr que la terminal se vea así:
 ![alt text](image.png)
