@@ -107,8 +107,8 @@ neofetch
 ```
 El comando `~/.zshrc` se va a seguir usando entoces vamos a crear un alias para facilitarnos la vida, al final del archivo debajo de `neofetch` copia y pega ambas lineas la segunda es para facilitar el reinicio de la terminal:
 ```
-# alias zshconfig="nano ~/.zshrc"
-# alias bashreboot="source ~/.zshrc
+alias zshconfig="nano ~/.zshrc"
+alias bashreboot="source ~/.zshrc
 ```
 guarda los cambios y reinicia la terminal (los alias no funciona sin reiniciar la terminal)
 
@@ -218,7 +218,7 @@ Ejemplo: los comandos pueden ser azules, las opciones en verde, los argumentos e
 ### Alias:
 Como ya pusimos a prueba antes los alias sirven para abreviar comandos, puedes hacer los alias que quieras para los comandos que quieras solo debes segir esta estructura:
 ```bash
-# alias abreviacion="comando que se va a abreviar"
+alias abreviacion="comando que se va a abreviar"
 ```
 
 ---
